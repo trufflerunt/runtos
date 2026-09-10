@@ -15,7 +15,7 @@ cp -avf "/ctx/system_files"/. /
 # this installs a package from fedora repos
 #dnf5 install -y akmod-nvidia-open libva-nvidia-driver xorg-x11-drv-nvidia xorg-x11-drv-nvidia-cuda
 
-dnf5 install -y niri
+dnf5 install -y niri noctalia alacritty
 
 # Use a COPR Example:
 #
